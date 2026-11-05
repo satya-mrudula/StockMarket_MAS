@@ -1,0 +1,60 @@
+STOCK MARKET RESEARCH REPORT
+Ticker: RELIANCE.NS
+Generated: 2026-11-04T23:28:42.166359
+
+DISCLAIMER: Informational analysis only, not personalized financial advice. Historical performance does not guarantee future results.
+
+**Research Report: Reliance Industries (RELIANCE.NS)**
+
+**Executive Summary**
+
+Reliance Industries (RELIANCE.NS) has experienced a decline in its stock price over the past year, with a period change percent of -10.5925%. The closing price has fluctuated between ₹1311.0 and ₹1466.3203, while the latest volume is 19444018. The recent sessions show a mix of high and low prices, with the highest close at ₹1311.0 and the lowest close at ₹1158.0.
+
+**Market Data**
+
+* Closing Price: ₹1311.0 - ₹1466.3203
+* Period Change Percent: -10.5925%
+* Latest Volume: 19444018
+* Recent Sessions:
+	+ ₹1311.0 (2026-11-04)
+	+ ₹1307.9 (2026-11-03)
+	+ ₹1300.0 (2026-11-02)
+	+ ₹1164.9 (2026-10-30)
+	+ ₹1167.4 (2026-10-29)
+	+ ₹1158.0 (2026-10-28)
+	+ ₹1196.2 (2026-10-27)
+	+ ₹1201.8 (2026-10-26)
+	+ ₹1190.0 (2026-10-23)
+	+ ₹1184.5 (2026-10-22)
+
+**Technical Analysis**
+
+* SMA20: ₹1203.755
+* SMA50: ₹1235.458
+* EMA12: ₹1232.0395
+* EMA26: ₹1221.1573
+* RSI14: 67.0415
+* MACD: 10.8822
+* MACD_signal: -6.0824
+* Bollinger_upper: ₹1299.3442
+* Bollinger_middle: ₹1203.755
+* Bollinger_lower: ₹1108.1658
+
+**News Analysis**
+
+* The closing price of Reliance Industries has been fluctuating between ₹1311.0 and ₹1466.3203 over the past year.
+* The period change percent is -10.5925%, indicating a decline in the stock price over the past year.
+* The latest volume is 19444018, indicating a significant trading volume on the last day of the period.
+* The recent sessions show a mix of high and low prices, with the highest close at ₹1311.0 and the lowest close at ₹1158.0.
+
+**Risk Analysis**
+
+* Daily Volatility Percent: 1.5359%
+* Annualized Volatility Percent: 24.382%
+* Maximum Drawdown Percent: -26.9388%
+* Historical Daily VaR 95%: -2.2255
+* Historical Daily VaR 99%: -3.3377
+
+**Conclusion**
+
+Reliance Industries (RELIANCE.NS) has experienced a decline in its stock price over the past year, with a period change percent of -10.5925%. The closing price has fluctuated between ₹1311.0 and ₹1466.3203, while the latest volume is 19444018. The recent sessions show a mix of high and low prices, with the highest close at ₹1311.0 and the lowest close at ₹1158.0. The risk metrics indicate a high level of volatility, with a daily volatility percent of 1.5359% and an annualized volatility percent of 24.382%.

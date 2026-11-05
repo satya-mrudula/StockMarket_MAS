@@ -1,0 +1,7 @@
+STOCK MARKET RESEARCH REPORT
+Ticker: RELIANCE.NS
+Generated: 2026-11-04T23:14:34.377606
+
+DISCLAIMER: Informational analysis only, not personalized financial advice. Historical performance does not guarantee future results.
+
+{"name": "get_company_info", "parameters": {"period": "1y", "company_name": "Reliance Industries Limited"}}
